@@ -1,5 +1,5 @@
 # deeplab-utils
-Utilities for working with DeepLab
+Utilities for working with DeepLab, a neural network for image segmentation.
 
 This is a collection of tools for working with the DeepLab deep learning model, as described in the paper [Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/pdf/1706.05587.pdf). We used the model implementation [here](https://github.com/rishizek/tensorflow-deeplab-v3).
 
