@@ -4,3 +4,5 @@ images_mean_rgb/.ipynb_checkpoints/
 augmentor/.ipynb_checkpoints/
 .ipynb_checkpoints/Converting Binary Masks to a Instance Mask-checkpoint.ipynb
 .ipynb_checkpoints/Parsing Labelbox JSON-checkpoint.ipynb
+labelbox_parser/.ipynb_checkpoints/
+labelbox_parser/SegmentationClassAug/*
